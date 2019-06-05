@@ -1,3 +1,3 @@
 def square_array(array)
-array.each {|3| print x, 1 , 2 }
+array.each {1, 4, 9]
 end
